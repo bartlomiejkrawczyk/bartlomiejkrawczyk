@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - [Restaurant Management System - Application Programming](https://github.com/bartlomiejkrawczyk/PAP-21Z)
 - [Introduction to Artificial Intelligence](https://github.com/bartlomiejkrawczyk/WSI-21Z)
 - [Databases 1](https://github.com/bartlomiejkrawczyk/BD1-21Z)
-- [Databases 2](https://github.com/bartlomiejkrawczyk/BD2-22L)
+- [Database of University Applicants - Databases 2](https://github.com/bartlomiejkrawczyk/BD2-22L)
 - [Design Patterns - Software Development Craftsmanship](https://github.com/bartlomiejkrawczyk/TEXT-ADVENTURE-GAME)
 
 2021:
