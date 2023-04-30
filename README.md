@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Projects
-
-- [GCP Login](https://play.google.com/store/apps/details?id=pl.grupapolsat)
-- [mOTP](https://play.google.com/store/apps/details?id=pl.itrun)
-
 ### Warsaw University of Technology
 
 2022:
