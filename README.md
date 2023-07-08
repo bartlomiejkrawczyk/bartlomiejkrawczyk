@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 2023:
 - [Custom Programming Language](https://github.com/bartlomiejkrawczyk/TKOM-23L)
 - [Wordle - Clone](https://github.com/bartlomiejkrawczyk/PAINT-23L)
-- [Text based games in different languages](https://github.com/bartlomiejkrawczyk/PARP-23L)
+- [Text Game in Different Languages](https://github.com/bartlomiejkrawczyk/PARP-23L)
 - [Unix File System via Daemon](https://github.com/bartlomiejkrawczyk/UXP1A-23L)
 - [Music Platform Dataset Analysis](https://github.com/bartlomiejkrawczyk/IUM-23L)
 - [Line Following Robot](https://github.com/bartlomiejkrawczyk/WR-23L)
