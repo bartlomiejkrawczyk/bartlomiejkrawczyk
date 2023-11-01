@@ -1,6 +1,6 @@
 ### Hi, I am Computer Science student at Warsaw University of Technology👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiejkrawczyk&langs_count=16&layout=compact&exclude_repo=IUM-23L)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiejkrawczyk&langs_count=16&layout=compact&exclude_repo=IUM-23L,WMM-22L,SKPS-22L)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Warsaw University of Technology
 
@@ -17,6 +17,12 @@
 - [Numerical Methods - projects](https://github.com/bartlomiejkrawczyk/MNUM-22Z)
 - [Database of University Applicants - Databases 2](https://github.com/bartlomiejkrawczyk/BD2-22L)
 - [Design Patterns - Software Development Craftsmanship](https://github.com/bartlomiejkrawczyk/Design-Patterns)
+- [Raspberry Pi projects](https://github.com/bartlomiejkrawczyk/SKPS-22L)
+- [Network programming](https://github.com/bartlomiejkrawczyk/PSI-22Z)
+- [Unix System Administration](https://github.com/bartlomiejkrawczyk/ASU-22Z)
+- [Introduction to Multimedia - laboratories](https://github.com/bartlomiejkrawczyk/WMM-22L)
+- [Project Management Systems](https://github.com/bartlomiejkrawczyk/WSYZ-22L)
+- [Project Management](https://github.com/bartlomiejkrawczyk/ZPI-22Z)
 
 2021:
 - [Restaurant Management System - Application Programming](https://github.com/bartlomiejkrawczyk/PAP-21Z)
