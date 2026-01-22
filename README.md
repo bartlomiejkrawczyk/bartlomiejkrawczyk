@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm **Bartłomiej Krawczyk**, a passionate developer who enjoys building useful, creative, and efficient software solutions.
-
 ### About Me
 
 - I love working with modern web technologies and clean code.
@@ -17,6 +15,3 @@ I'm **Bartłomiej Krawczyk**, a passionate developer who enjoys building useful,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiejkrawczyk&langs_count=20&layout=compact&exclude_repo=IUM-23L,WMM-22L,SKPS-22L)
 -->
----
-
-*Thanks for visiting my profile! Feel free to check out my projects or reach out if you’d like to collaborate.*
